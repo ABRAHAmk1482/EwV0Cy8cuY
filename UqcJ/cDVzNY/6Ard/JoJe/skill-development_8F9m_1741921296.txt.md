@@ -337,7 +337,6 @@ A resources list for leveling up iOS dev knowledge and skills.
 - [微信团队的公众号](http://top.aiweibang.com/article/KcO4OcOnw67Ctg~~)
 - [一缕殇流化隐半边冰的博客](https://github.com/halfrost/Halfrost-Field)（[简书](http://www.jianshu.com/u/12201cdd5d7a)）
 - [iOS 成长之路 - 小专栏](https://xiaozhuanlan.com/iosdev)
-- [iOS成长之路3期·WWDC17内参](https://xiaozhuanlan.com/wwdc17)
 - [iOS Dev Weekly](http://iosdevweekly.com)
 - [iOS Goodies](http://ios-goodies.com)
 - [Swift Developments Newsletter](https://andybargh.com/swiftdevelopments/)
