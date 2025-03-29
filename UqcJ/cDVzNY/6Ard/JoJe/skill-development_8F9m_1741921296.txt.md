@@ -166,7 +166,6 @@ A resources list for leveling up iOS dev knowledge and skills.
     - [ ] [Local and Remote Notification Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/index.html#//apple_ref/doc/uid/TP40008194)
 
 - [Data Management](https://developer.apple.com/library/content/navigation/#section=Topics&topic=Data%20Management)
-    - File Management
         - [ ] [Apple File System Guide](https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40016999)
         - [ ] [File System Programming Guide](https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010672)
         - [ ] [Archives and Serializations Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Archiving/Archiving.html#//apple_ref/doc/uid/10000047i)
