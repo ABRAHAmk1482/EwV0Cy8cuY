@@ -2,7 +2,6 @@ docs
 .releaser
 .github
 .circleci
-tmp
 scripts
 .idea
 database.yaml
