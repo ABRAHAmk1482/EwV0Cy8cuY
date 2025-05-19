@@ -7,7 +7,6 @@ scripts
 database.yaml
 contrib/quickstart
 node_modules/
-./quickstart.yml
 ./quickstart-*.yml
 test/
 pgked.go
