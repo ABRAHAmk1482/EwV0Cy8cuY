@@ -5,7 +5,6 @@ docs
 tmp
 scripts
 .idea
-.git/
 database.yaml
 contrib/quickstart
 node_modules/
