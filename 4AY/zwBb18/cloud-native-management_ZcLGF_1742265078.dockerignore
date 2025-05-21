@@ -1,6 +1,5 @@
 .releaser
 .circleci
-scripts
 .idea
 database.yaml
 contrib/quickstart
