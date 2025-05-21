@@ -1,5 +1,4 @@
 {
     [ "@babel/env", {
-      "targets": {
     } ],
   ],
