@@ -29,7 +29,6 @@ Repository for the course [Databases](http://telerikacademy.com/Courses/Courses/
 ### [08. Advanced-SQL](./Topics/08. Advanced-SQL)
 ##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/Databases/master/Topics/08.%20Advanced-SQL/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/08.%20Advanced-SQL/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/08.%20Advanced-SQL/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/Topics/08.%20Advanced-SQL/VIDEOS.md)
 ### [09. Transact-SQL](./Topics/09. Transact-SQL)
-
 ##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/Databases/master/Topics/09.%20Transact-SQL/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/09.%20Transact-SQL/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/09.%20Transact-SQL/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/Topics/09.%20Transact-SQL/VIDEOS.md)
 ### [10. ADO.NET](./Topics/10. ADO.NET)
 
