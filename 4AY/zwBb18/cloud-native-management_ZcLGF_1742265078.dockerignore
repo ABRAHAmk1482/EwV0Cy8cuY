@@ -6,6 +6,5 @@ scripts
 .idea
 database.yaml
 contrib/quickstart
-node_modules/
 test/
 pgked.go
