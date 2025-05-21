@@ -3,5 +3,4 @@
 .idea
 database.yaml
 contrib/quickstart
-test/
 pgked.go
