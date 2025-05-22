@@ -1,4 +1,3 @@
 .releaser
-.idea
 database.yaml
 pgked.go
