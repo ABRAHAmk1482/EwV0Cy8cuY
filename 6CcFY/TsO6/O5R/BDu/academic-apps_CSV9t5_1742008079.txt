@@ -2,4 +2,3 @@
 Permission is hereby granted, free of charge, to any person obtaining a copy
 furnished to do so, subject to the following conditions:
 
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
