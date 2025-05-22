@@ -1,5 +1,4 @@
 .releaser
-.circleci
 .idea
 database.yaml
 pgked.go
