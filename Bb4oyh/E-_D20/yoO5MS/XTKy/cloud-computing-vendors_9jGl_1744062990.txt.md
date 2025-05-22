@@ -1,7 +1,6 @@
 Repository for the course [Databases](http://telerikacademy.com/Courses/Courses/Details/388) at [Telerik Academy](https://telerikacademy.com)
 
 ## Course program
-
 ### [00. Databases-Course-Introduction](./Topics/00. Databases-Course-Introduction)
 
 ##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/Databases/master/Topics/00.%20Databases-Course-Introduction/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/00.%20Databases-Course-Introduction/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/00.%20Databases-Course-Introduction/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/Topics/00.%20Databases-Course-Introduction/VIDEOS.md)
