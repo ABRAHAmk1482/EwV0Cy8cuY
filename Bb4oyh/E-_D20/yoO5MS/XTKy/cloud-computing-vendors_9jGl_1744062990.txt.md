@@ -1,4 +1,3 @@
-
 ## Course program
 ### [00. Databases-Course-Introduction](./Topics/00. Databases-Course-Introduction)
 
