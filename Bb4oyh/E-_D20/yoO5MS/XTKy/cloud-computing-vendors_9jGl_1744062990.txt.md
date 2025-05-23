@@ -24,7 +24,6 @@
 ### [13. Entity-Framework-Code-First](./Topics/13. Entity-Framework-Code-First)
 ### [14. Database-Performance](./Topics/14. Database-Performance)
 ### [15. Database-Transactions-Concepts](./Topics/15. Database-Transactions-Concepts)
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/Databases/master/Topics/15.%20Database-Transactions-Concepts/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/15.%20Database-Transactions-Concepts/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/15.%20Database-Transactions-Concepts/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/Topics/15.%20Database-Transactions-Concepts/VIDEOS.md)
 ### [16. Database-Transactions-with-EF](./Topics/16. Database-Transactions-with-EF)
 
 ### [17. NoSQL-Databases](./Topics/17. NoSQL-Databases)
